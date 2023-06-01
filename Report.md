@@ -24,13 +24,14 @@ Hi I think if you are attempting to only have one if statement and one elif stat
 
 ### Part 3 Fixing the bug
 
-After following the advice and changing the code to the screenshot below. It was in fact the elif statement that was the bug, and simply having the echo "Everything is fine" outside the for loop seemed to work and fix the program as seen in the output below. 
+After following the advice and changing the code to the screenshot below. It was in fact the elif statement that was the bug, and simply having the echo "Everything is fine" outside the for loop seemed to work and fix the program as seen in the output below. It also won't echo twice from the if statement since the if statement contains an exit command if executed. 
 
 ### Part 4 All Setup Information
 
 **The file & directory structure needed**
 
 ![](4.png)
+
 working directory is ~/OneDrive/Desktop/UCSD/CSE 15L/list-examples-grader-main
 
 **The contents of each file before fixing the bug**
